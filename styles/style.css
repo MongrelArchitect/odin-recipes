@@ -1,0 +1,56 @@
+a,
+a:visited {
+  text-decoration: none;
+  color: #2f2eb8;
+  font-weight: bold;
+}
+
+body {
+  background-color: #aaa;
+  font-family: sans-serif;
+}
+
+h1 {
+  margin: 0 0 10px 0;
+  font-size: 40px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+img {
+  border: 2px solid #000;
+  display: block;
+  height: auto;
+  margin: auto;
+  width: 375px;
+}
+
+ul,
+ol,
+p {
+  font-size: 20px;
+}
+
+.container {
+  background-color: #ddd;
+  padding: 10px;
+  margin: auto;
+  width: 80%;
+  max-width: 900px;
+}
+
+#recipes {
+  margin: auto;
+  max-width: 375px;
+}
+
+#recipes ul {
+  font-size: 25px;
+  margin: 10px 0 0 0;
+  padding: 0;
+  list-style-type: none;
+}
